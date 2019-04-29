@@ -6,4 +6,4 @@
 * CSS
 * JavaScript
 
-## See live demo: [Employee directory project](https://nicolepdev.github.io/desert-quote-generator/)
+## See live demo: [Desert quote generator](https://nicolepdev.github.io/desert-quote-generator/)
