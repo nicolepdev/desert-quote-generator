@@ -1,3 +1,4 @@
+![Desert quote generator screenshot](https://res.cloudinary.com/dqe0hw0ru/image/upload/v1565188115/desert_quotes.png)
 # 🏜️ Desert Quote Generator
 ### Showing my love for the desert through code
 
